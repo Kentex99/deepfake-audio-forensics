@@ -1,0 +1,17 @@
+# Don’t commit raw audio or generated data
+*.wav
+*.npy
+*.png
+*.csv
+
+# Logs and output folders
+logs/
+output/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
