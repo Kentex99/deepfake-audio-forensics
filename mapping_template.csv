@@ -1,0 +1,2 @@
+id,human_path,cloned_path,anonymized_path,synthetic_path
+001,./data/human/001.wav,./data/cloned/001_cloned.wav,./data/anonymized/001_anon.wav,./data/synthetic/001_synth.wav
